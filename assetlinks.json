@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "app.gusto.mobile",
+    "sha256_cert_fingerprints":
+    ["00:6E:33:FC:FA:63:1E:BE:EC:6C:EA:F5:BE:B9:49:BA:BB:84:11:89:DB:49:E6:4F:A3:A2:20:65:50:19:D5:C3"]
+  }
+}]
